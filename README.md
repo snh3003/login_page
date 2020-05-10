@@ -2,6 +2,8 @@
 
 A simple login page
 
+![](/img/login_page.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
